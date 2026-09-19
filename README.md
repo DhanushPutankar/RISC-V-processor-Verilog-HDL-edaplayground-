@@ -80,3 +80,8 @@ These omissions are intentional to keep the design **educational, modular, and e
 - Simplified PC logic (PC + 4 only)
 
 ---
+
+## Simulation Waveform
+The following waveform shows the processor simulation, including the clock, program counter, instruction flow, ALU control signals, memory activity, and register interfaces.
+
+![RISC-V Processor Simulation Waveform](Images/Waveform.png)
