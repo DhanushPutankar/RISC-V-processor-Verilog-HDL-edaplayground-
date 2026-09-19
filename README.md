@@ -80,5 +80,3 @@ These omissions are intentional to keep the design **educational, modular, and e
 - Simplified PC logic (PC + 4 only)
 
 ---
-
-## File Structure
