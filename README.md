@@ -12,7 +12,7 @@ Simulation and verification are performed using **Cadence Xcelium (xrun)** and E
 ## Architecture
 The processor is organized as a classic 5-stage pipelined datapath with dedicated pipeline registers between stages.
 
-![Custom RISC-V Pipeline Architecture](docs/architecture_diagram.png)
+![Custom RISC-V Pipeline Architecture](Images/Architecture.png)
 
 ### Pipeline Stages
 - **Instruction Fetch (IF)**  
